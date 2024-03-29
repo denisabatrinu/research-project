@@ -14,8 +14,7 @@
 </div>
 
 ## ✨ Brief introduction
-This is an additional source of information for module BIO 6019Y - Research Project. This assignment was handed in on 11th of May 2023 during my second year of my BSc in Biological Sciences at University of East Anglia. Skills acquired during the completion of this assignment include:  data cleaning, exploratory analysis, data visualization & statistical model building and inference.
-This report studies the effect of the gene raga-1 and how it interacts with stress on longevity and reproduction in the nematode worm caenorhabditis elegans; see below for more information.
+This is an additional resource for my final year research project. This assignment was handed in on 22nd of April 2024 during my third year of my BSc in Biological Sciences at University of East Anglia. This project studies the effect of heat stress on zebrafish embryos; see below for more information.
 
 
 ## 🎯 Objectives
