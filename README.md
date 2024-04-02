@@ -15,7 +15,6 @@
 
 ## 🔬🐟 Brief introduction
 - The aim of this repository is to enhance reproducibility of my research by providing organized R code, data, and documentation for transparent data analysis.
-- This research project was handed in on 22nd of April 2024 during my third year of my BSc in Biological Sciences at University of East Anglia.
 - This research project seeks to understand the effect of heat stress on zebrafish embryos; see below for more information.
 
 
